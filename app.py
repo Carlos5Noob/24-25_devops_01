@@ -2,7 +2,7 @@
 
 
 def suma(a: int, b: int) -> int:
-    """ docstring function
+    """ docstring modificado function
     # debe dar errores en linter
     """
     # x = "no se usa"
